@@ -23,10 +23,7 @@ Installation
 
 To run this game, ensure you have Python and Pygame installed on your system.
 
-Clone the Repository:
 
-git clone https://github.com/yourusername/catch-the-falling-objects.git
-cd catch-the-falling-objects
 
 Install Pygame:
 
